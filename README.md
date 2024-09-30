@@ -27,7 +27,7 @@ To explore these projects:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/threejs-projects.git
+   git clone https://github.com/koustav-saha-110/threejs-projects.git
    ```
 2. Navigate to a specific project directory.
 3. Open the `index.html` file in your browser or use a local server.
