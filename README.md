@@ -11,8 +11,6 @@ This repository serves as a playground for exploring the capabilities of Three.j
 Here's a list of some of the projects you'll find in this repository:
 
 1. **Physics Playground**: A 3D simulation combining Three.js and Cannon.js for realistic physics interactions.
-2. [Project 2 Name]: Brief description of the second project.
-3. [Project 3 Name]: Brief description of the third project.
    
 (Add more projects as they are developed)
 
