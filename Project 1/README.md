@@ -27,22 +27,17 @@ Dive into the world of 3D physics with our interactive playground! This project 
    git clone https://github.com/koustav-saha-110/threejs-projects.git
    ```
 
-2. Navigate to the project folder:
-   ```bash
-   cd threejs-projects/folder_name
-   ```
-
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-4. Launch the project:
+3. Launch the project:
    ```bash
    npm run dev
    ```
 
-5. Open your browser and navigate to:
+4. Open your browser and navigate to:
    ```
    http://localhost:5173
    ```
