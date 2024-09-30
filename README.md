@@ -12,7 +12,7 @@ Here's a list of some of the projects you'll find in this repository:
 
 1. **Physics Playground**: A 3D simulation combining Three.js and Cannon.js for realistic physics interactions.
    
-(Add more projects as they are developed)
+(Will be adding more projects as they are developed)
 
 ## 🛠️ Technologies Used
 
