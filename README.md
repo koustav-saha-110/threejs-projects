@@ -1,7 +1,5 @@
 # Physics Playground: 3D Simulations with Three.js and Cannon.js
 
-![Project Banner](path/to/banner-image.png)
-
 ## 🚀 Overview
 
 Dive into the world of 3D physics with our interactive playground! This project combines the power of Three.js for stunning visuals and Cannon.js for realistic physics, all wrapped up in an intuitive interface powered by lil-gui.
@@ -26,32 +24,28 @@ Dive into the world of 3D physics with our interactive playground! This project 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/physics-playground.git
+   git clone https://github.com/koustav-saha-110/threejs-projects.git
    ```
 
-2. Install dependencies:
+2. Navigate to the project folder:
+   ```bash
+   cd threejs-projects/folder_name
+   ```
+
+3. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Launch the project:
+4. Launch the project:
    ```bash
    npm run dev
    ```
 
-4. Open your browser and navigate to:
+5. Open your browser and navigate to:
    ```
    http://localhost:5173
    ```
-
-## 🕹️ Controls
-
-Experiment with various parameters using our intuitive GUI:
-
-- 🌍 Gravity settings
-- 📦 Object properties (mass, size, position)
-- 🧲 Material characteristics (friction, restitution)
-- 💪 Force application
 
 ## 🧪 Experiments
 
